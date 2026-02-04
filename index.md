@@ -1,13 +1,3 @@
----
-layout: default
-title: Test
----
-
-# It works
-
-If you see this, GitHub Pages is building correctly.
-
-<!-- ---
 layout: splash
 title: "Gulim Alkenova"
 header:
@@ -38,4 +28,3 @@ I build statistical and machine-learning solutions with **clear business interpr
 - **PM2.5 Spatio-Temporal Analysis** — seasonality, hotspots, and trends  
 - **Causal Inference (Healthcare)** — treatment effect estimation with robustness checks  
 - **Master’s Thesis** — Median Polish Kriging on irregular domains
- -->
