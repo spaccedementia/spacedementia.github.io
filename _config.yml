@@ -1,5 +1,44 @@
-theme: jekyll-theme-minimal
-title: Gulim's Portfolio
-description: M.Sc. student in Big Data & Applied Statistics at Konkuk University
+title: "Gulim Alkenova"
+description: "Quant & Analytics | Applied Statistics | Data Analytics"
+url: "https://spaccedementia.github.io"
+baseurl: ""
 
+remote_theme: "mmistakes/minimal-mistakes@latest"
+plugins:
+  - jekyll-include-cache
 
+minimal_mistakes_skin: default  # clean, white
+
+author:
+  name: "Gulim Alkenova"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "M.Sc. Big Data & Applied Statistics · Analytics · Quantitative Modeling"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:your@email.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/yourprofile"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/glm15"
+
+nav:
+  - title: "Projects"
+    url: /projects/
+  - title: "CV"
+    url: /cv/
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      read_time: false
+      comments: false
+      share: false
