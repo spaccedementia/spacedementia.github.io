@@ -24,7 +24,7 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/spaccedementia"
 
-nav:
+navigation:
   - title: "Projects"
     url: /projects/
   - title: "CV"
@@ -39,6 +39,5 @@ defaults:
       path: ""
     values:
       layout: single
-      read_time: false
-      comments: false
-      share: false
+      toc: false
+      author_profile: false

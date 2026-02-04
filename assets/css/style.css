@@ -1,0 +1,16 @@
+---
+---
+
+@import "minimal-mistakes/style";
+
+.page__content {
+  font-size: 1.05rem;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+}
+
+a {
+  text-decoration: none;
+}
