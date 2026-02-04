@@ -1,10 +1,11 @@
 ---
 layout: splash
 title: "Gulim Alkenova"
-permalink: /
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.2"
+  overlay_color: "#000000"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/avatar.jpg
+excerpt: "M.Sc. student in Big Data & Applied Statistics (Konkuk University)"
 ---
 
 ## M.Sc. student in Big Data & Applied Statistics (Konkuk University)  
